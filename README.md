@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:28/10/2026
-## Reference Number:26004703
-## Name:Sharmitha R
+# Date:30/10/2026
+## Reference Number:26010852
+## Name:Srisakthipriya s 
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
